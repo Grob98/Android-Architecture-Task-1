@@ -1,6 +1,8 @@
 # Aufgabe 1
 ### Ziel:
 Es soll eine App erstellt werden, die mit einem Fragment und einem View Model arbeitet. Es soll Nutzern möglich sein eine angezeigte Zahl rauf und runter zu zählen.
+
+**Hinweis:** Falls du etwas auf den Folien der Präsentation nachsehen möchtest findest du diese hier: https://docs.google.com/presentation/d/1NvxNhyLKu1n2VEJzfXUL1NSFqKxjIrneG3NH9GsrUbk/edit?usp=sharing
 <br/><br/>
 
 ### 1.1
@@ -19,3 +21,4 @@ Ergänze Funktionalität für die Buttons im MainFragment. Der Plus-Button soll 
 
 ### 1.4
 Baue nun das MainViewModel ein, sodass die Daten erhalten bleiben, wenn das Gerät beispielsweise gedreht wird.
+<br/><br/>
