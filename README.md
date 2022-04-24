@@ -12,7 +12,8 @@ Erstelle im main_fragment.xml ein layout für die App. Es wird ein TextView zum 
 <br/><br/>
 
 ### 1.3
-Ergänze Funktionalität für die Buttons im MainFragment. Der Plus-Button soll die Zahl mit 1 addieren und anzeigen. Der Minus-Button entsprechend subtrahieren. <br/>
+Ergänze Funktionalität für die Buttons im MainFragment. Der Plus-Button soll die Zahl mit 1 addieren und anzeigen. Der Minus-Button entsprechend subtrahieren.
+
 **Tipp:** Du kanns mithilfe der when-Funktion zwischen den IDs der Buttons unterscheiden
 <br/><br/>
 
